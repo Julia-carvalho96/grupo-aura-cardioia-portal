@@ -87,4 +87,6 @@ npm run build
 
 ## Vídeo da entrega
 
-O enunciado exige um vídeo não listado no YouTube, com até quatro minutos. O link será inserido aqui depois da gravação e publicação.
+O vídeo único demonstra o portal React, a solução obrigatória de NLP e classificação textual e o experimento visual de ECG.
+
+- **YouTube (não listado, até quatro minutos):** [CardioIA — Fase 2 completa](https://youtu.be/qoKjl6oeotY)
